@@ -1,0 +1,11 @@
+OKU AX
+OKU BX
+ATM CX AY    
+ATM DX BX      
+CIK CX DX       
+DB ETIKET1     
+CIK DX AX       
+YAZ DX          
+ETIKET2: CIK AX BX
+YAZ AX
+ETIKET1: YAZ CX
